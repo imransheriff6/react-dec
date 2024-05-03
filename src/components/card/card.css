@@ -1,0 +1,9 @@
+.card{
+    width: 33%;
+    border: 1px solid #999;
+}
+.active{
+    box-shadow: 0 0 20px #999;
+    border: none;
+    /* transform: scale(1.04); */
+}

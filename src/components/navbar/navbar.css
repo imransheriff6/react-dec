@@ -1,0 +1,8 @@
+#header{
+    background-color: beige;
+    display: flex;
+    align-items: center;
+}
+#header h1{
+    flex-grow: 1;
+}
