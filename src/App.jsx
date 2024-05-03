@@ -62,7 +62,7 @@ function App() {
 
     <BrowserRouter>
       <Link to='/'>Home</Link>
-      <Link to='/about'>About</Link>
+      <Link to='/about'>About t</Link>
       <Link to='/contact'>Contact</Link>
       <Routes>
         <Route path="/" element={<SeverCall />} />
